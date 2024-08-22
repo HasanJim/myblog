@@ -1,0 +1,18 @@
+---
+title: 'Logistic Regression: Basic to Advanced'
+author: Mehedi Hasan Jim
+date: '2024-08-22'
+slug: logistic-regression-basic-to-advanced
+categories: []
+tags:
+  - logistic regression
+---
+
+How do you predict whether a new patient has diabetic or not based on data collected from previous patients? Or, you may want ot predict whether the tumor type a patient has is malignant or benign based on the size, shape and texture? 
+One way to do so is to use logistic regression.
+
+```{r}
+
+
+```
+
